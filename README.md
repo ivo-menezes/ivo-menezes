@@ -61,5 +61,3 @@ With 17 years as a laboratory technician in microbiology quality control, I hone
 
 - 2022-2023 SWitCH Dev - Requalification Programme - Instituto Superior Engenharia Porto / PTH
 - 1999-2005 Bachelor's Degree in Microbiology - Universidade Católica Portuguesa
-
-## [View My Resume](https://github.com/ivo-menezes/CurriculumVitae/blob/main/resume.pdf)
